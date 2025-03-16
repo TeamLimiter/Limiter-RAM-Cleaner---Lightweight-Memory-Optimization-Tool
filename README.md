@@ -33,7 +33,7 @@ A lightweight and efficient RAM optimization tool designed to free up system mem
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TeamLimiter/RAM-Cleaner---Lightweight-Memory-Optimization-Tool/blob/e18a13f81ded2ff3204930efca89bbdb853cab68/LICENSE) file for details.
 
 ## Contact & Support
 For any issues or suggestions, please open an issue on GitHub or contact [your email].
