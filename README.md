@@ -1,4 +1,4 @@
-# RAM Cleaner
+# Limiter RAM Cleaner
 
 A lightweight and efficient RAM optimization tool designed to free up system memory, improve performance, and reduce system lag. Supports a **silent mode** for seamless background operation.
 
