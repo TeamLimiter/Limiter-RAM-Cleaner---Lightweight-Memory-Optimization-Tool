@@ -15,7 +15,8 @@ A lightweight and efficient RAM optimization tool designed to free up system mem
 ### **Download & Run**
 1. Clone this repository or download the executable.
    ```sh
-   [Download](https://github.com/TeamLimiter/Limiter-RAM-Cleaner---Lightweight-Memory-Optimization-Tool/releases/tag/v1.1.2)
+   Download
+   https://github.com/TeamLimiter/Limiter-RAM-Cleaner---Lightweight-Memory-Optimization-Tool/releases/tag/v1.1.2
    ```
 2. Run the application:
    - **Normal Mode:** Double-click the executable to launch the app with a GUI.
