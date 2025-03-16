@@ -15,14 +15,14 @@ A lightweight and efficient RAM optimization tool designed to free up system mem
 ### **Download & Run**
 1. Clone this repository or download the executable.
    ```sh
-   git clone https://github.com/yourusername/RAM-Cleaner.git
-   cd RAM-Cleaner
+   https://github.com/TeamLimiter/RAM-Cleaner---Lightweight-Memory-Optimization-Tool.git
+   cd Limiter RAM Cleaner.exe
    ```
 2. Run the application:
    - **Normal Mode:** Double-click the executable to launch the app with a GUI.
    - **Silent Mode:** Run via command line with the `-silent` argument:
      ```sh
-     RAMCleaner.exe -silent
+     Limiter RAM Cleaner.exe -silent
      ```
 
 ## System Requirements
